@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\belajar-android-git-master.0010\SimpleApplication.iml" filepath="C:\belajar-android-git-master.0010\SimpleApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/belajar-android-git-master.0010.iml" filepath="$PROJECT_DIR$/belajar-android-git-master.0010.iml" />
+    </modules>
+  </component>
+</project>
